@@ -1,0 +1,12 @@
+{
+  "name": "youtube-downloader",
+  "version": "0.0.1",
+  "homepage": "https://github.com/launchunit/youtube-downloader",
+  "author": "Karan Sakhuja <kevin.sakhuja@gmail.com> (http://kevify.com)",
+  "main": "index.js",
+  "dependencies": {
+    "dargs": "^4.0.1",
+    "lodash": "^3.10.1",
+    "shelljs": "^0.5.3"
+  }
+}
